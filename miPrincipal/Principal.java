@@ -21,8 +21,7 @@ public class Principal {
 
         System.out.println(x+"+"+y+"="+c.suma(x, y));
         System.out.println(x+"-"+y+"="+c.resta(x, y));
-        System.out.println(x+"*"+y+"="+c.multiplica(x, y));
-        System.out.println(x+"/"+y+"="+c.divide(x, y));
+       
 
         consola.close();
     }
